@@ -1,5 +1,11 @@
 # Changelog
 
+## 6.4.0
+
+### Minor Changes
+
+- [#613](https://github.com/t3-oss/create-t3-app/pull/613) [`135ee5b`](https://github.com/t3-oss/create-t3-app/commit/135ee5b469c575e3fa0d7729a9a545811cc9cf74) Thanks [@juliusmarminge](https://github.com/juliusmarminge)! - add inference helper for v10
+
 ## 6.3.0
 
 ### Minor Changes
